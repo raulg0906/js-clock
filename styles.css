@@ -1,0 +1,23 @@
+#clock{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: purple;
+    padding-top: 70px;
+    z-index: 
+}
+
+body{
+     background: gold;  
+     /* sorry for the eye sore */
+}
+
+#image{
+    display: flex;
+    justify-content: center;
+    background: url("https://fanatics.frgimages.com/FFImage/thumb.aspx?i=/productimages/_2607000/ff_2607682_full.jpg&w=900");
+    height: 800px;
+     background-repeat: no-repeat;
+     background-position: center;
+}
